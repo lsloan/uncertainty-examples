@@ -26,3 +26,5 @@ These are typically pretty roughly thrown together, and are in a bit of a stream
 - [snowfall](snowfall.md): quantile dotplots and HOPs for a snowfall prediction.
 
 - [mtcars](mtcars.md): Some spaghetti plots and HOPs with mtcars data.
+
+- [grades](https://htmlpreview.github.io/?https://github.com/lsloan/uncertainty-examples/blob/grades/grades.html): simulated student data (with a hard "test" in week 6) and tried to plot some sideways histograms and other variants.
