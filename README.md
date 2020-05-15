@@ -45,3 +45,9 @@ a stream-of-consciousness style. You have been warned.
     prediction.
 
   - [mtcars](mtcars.md): Some spaghetti plots and HOPs with mtcars data.
+  
+  - [grades](
+    https://htmlpreview.github.io/?https://github.com/lsloan/uncertainty-examples/blob/grades/grades.html
+    ): simulated student data (with a hard "test" in week 6) and tried
+    to plot some sideways histograms and other variants.
+
